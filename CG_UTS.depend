@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1606144847 source:d:\kuliah\semester 5\komputer grafik\task - pr\uts\cg_uts\shape.cpp
+	"stroke.h"
+	"shape.h"
+	<graphics.h>
+	<cstdlib>
+	<iostream>
+	<math.h>
+
+1606129326 d:\kuliah\semester 5\komputer grafik\task - pr\uts\cg_uts\stroke.h
+
+1606055093 d:\kuliah\semester 5\komputer grafik\task - pr\uts\cg_uts\shape.h
+	"stroke.h"
+
+1606708421 source:d:\kuliah\semester 5\komputer grafik\task - pr\uts\cg_uts\stroke.cpp
+	"stroke.h"
+	<graphics.h>
+	<cstdlib>
+	<math.h>
+	<stdio.h>
+	<iostream>
+
+1606721004 source:d:\kuliah\semester 5\komputer grafik\task - pr\uts\cg_uts\util.cpp
+	"util.h"
+	"stroke.h"
+	"shape.h"
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<cstdlib>
+
+1606720968 d:\kuliah\semester 5\komputer grafik\task - pr\uts\cg_uts\util.h
+	"stroke.h"
+
+1606313077 source:d:\kuliah\semester 5\komputer grafik\task - pr\uts\cg_uts\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<cstdlib>
+	"util.h"
+
+1606291188 source:d:\kuliah\komputer grafik\task - pr\uts\cg_uts\cg_uts\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<cstdlib>
+	"util.h"
+
+1606206728 d:\kuliah\komputer grafik\task - pr\uts\cg_uts\cg_uts\stroke.h
+
+1606115382 d:\kuliah\komputer grafik\task - pr\uts\cg_uts\cg_uts\shape.h
+	"stroke.h"
+
+1606206728 source:d:\kuliah\komputer grafik\task - pr\uts\cg_uts\cg_uts\shape.cpp
+	"stroke.h"
+	"shape.h"
+	<graphics.h>
+	<cstdlib>
+	<iostream>
+	<math.h>
+
+1606206728 source:d:\kuliah\komputer grafik\task - pr\uts\cg_uts\cg_uts\stroke.cpp
+	"stroke.h"
+	<graphics.h>
+	<cstdlib>
+	<math.h>
+	<stdio.h>
+	<iostream>
+
+1606291174 source:d:\kuliah\komputer grafik\task - pr\uts\cg_uts\cg_uts\util.cpp
+	"util.h"
+	"stroke.h"
+	"shape.h"
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<cstdlib>
+
+1606288992 d:\kuliah\komputer grafik\task - pr\uts\cg_uts\cg_uts\util.h
+	"stroke.h"
+

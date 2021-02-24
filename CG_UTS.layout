@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="shape.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22006" topLine="89" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="67" />
+			<Collapse line="125" />
+			<Collapse line="169" />
+			<Collapse line="210" />
+			<Collapse line="262" />
+			<Collapse line="317" />
+			<Collapse line="353" />
+			<Collapse line="372" />
+			<Collapse line="381" />
+			<Collapse line="432" />
+			<Collapse line="483" />
+			<Collapse line="524" />
+			<Collapse line="563" />
+			<Collapse line="610" />
+			<Collapse line="615" />
+			<Collapse line="687" />
+		</Folding>
+	</File>
+	<File name="stroke.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1248" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="util.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="189" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="220" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="shape.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1433" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="stroke.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15136" topLine="417" />
+		</Cursor>
+	</File>
+	<File name="util.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15130" topLine="24" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
